@@ -1,5 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
-
+NAME:Deepak.R
+REGISTER NO:212223040031
 ## AIM:
 To create a warehouse application in salesforce.com
 
